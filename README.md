@@ -4,11 +4,7 @@
     <img src="https://skillicons.dev/icons?i=github,java,py,c,cs,cpp,ruby"/>
   </a>
 </p>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+github_user_name: ${{ github.repository_owner }}
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
