@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Amanda");)](https://git.io/typing-svg)
+![snake gif](https://github.com/soobttokky/soobttokky/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=github,java,py,c,cs,cpp,ruby"/>
