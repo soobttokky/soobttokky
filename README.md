@@ -4,12 +4,11 @@
     <img src="https://skillicons.dev/icons?i=github,java,py,c,cs,cpp,ruby"/>
   </a>
 </p>
-github_user_name: ${{ github.repository_owner }}
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-      <img alt="github-snake" src="github-snake.svg" />
-    </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soobttokky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soobttokky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="150" alt="languages graph"/>
