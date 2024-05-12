@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+William");)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Amanda");)](https://git.io/typing-svg)
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=github,java,py,c,cs,cpp,ruby"/>
