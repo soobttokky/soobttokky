@@ -1,3 +1,4 @@
+[![snake gif](https://github.com/soobttokky/soobttokky/blob/output/github-contribution-grid-snake.svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Amanda");)](https://git.io/typing-svg)
 <p align="center">
   <a href="#">
