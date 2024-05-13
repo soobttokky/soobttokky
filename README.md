@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Amanda");)](https://git.io/typing-svg)
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,java,py,html,c,css,cpp,ruby,mysql,postgres"/>
+    <img src="https://skillicons.dev/icons?i=github,java,mysql,postgres,py,html,c,css,cpp,ruby"/>
   </a>
 </p>
 <div align="center">
