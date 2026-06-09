@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf%28%22Hello+World+I%27m+Amanda%22%29;)](https://git.io/typing-svg) &nbsp;
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf%28%22Hello+World+I%27m+Amanda%22%29;)](https://git.io/typing-svg) &nbsp;
 ![version: 10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 [![GitHub soobttokky](https://img.shields.io/github/followers/soobttokky?label=follow&style=social)](https://github.com/soobttokky) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
