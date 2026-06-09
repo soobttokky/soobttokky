@@ -1,10 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf%28%22Hello+World+I%27m+Amanda%22%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf%28%22Hello+World+I%27m+Amanda%22%29;)](https://git.io/typing-svg) &nbsp;
 ![version: 10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 [![GitHub soobttokky](https://img.shields.io/github/followers/soobttokky?label=follow&style=social)](https://github.com/soobttokky) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp; I'm a Analytics Engineer and researcher by profession, and a MS in Computer Science student! \
+💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
+🎓&nbsp;I graduated form University Center of the Federal District, Brazil (B.Tech, Computer Science).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+✍️ &nbsp;In my free time, I play piano, guitar and pursue writing as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at amandacsilvasy@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/amandacsilvas/) for more details about work experience.
 
@@ -29,7 +35,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900)
 
 ### 📫 &nbsp; How to reach me:
-
 
 <a href="https://www.linkedin.com/in/amandacsilvas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:amandacsilvasy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
