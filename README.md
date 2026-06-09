@@ -5,14 +5,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Analytics Engineer and researcher by profession, and a MS in Computer Science student! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form University Center of the Federal District, Brazil (B.Tech, Computer Science).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play piano, guitar and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at amandacsilvasy@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/amandacsilvas/) for more details about work experience.
+💡 &nbsp; I'm an Analytics Engineer bridging the gap between raw data and business strategy, and an MS in Computer Science student!\
+💻 &nbsp; I specialize in transforming complex datasets into actionable insights, building robust data models, and developing corporate BI solutions using tools like Power BI, DAX, and Python.\
+🎓 &nbsp; I graduated from the University Center of the Federal District, Brazil (B.Tech, Computer Science).\
+🌱 &nbsp; I'm currently focused on scaling data architectures, optimizing reporting environments, and exploring how Artificial Intelligence can enhance data analytics.\
+✍️ &nbsp; In my free time, I play piano, guitar, and pursue writing as my hobbies.\
+💬 &nbsp; Feel free to reach out to me for consulting, or discussions on data strategy, analytics infrastructure, and my research topics!\
+✉️ &nbsp; You can email me at amandacsilvasy@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/amandacsilvas/) for more details about my work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
